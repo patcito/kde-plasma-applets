@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=isoHunt
+Name[x-test]=xxisoHuntxx
+Comment=Searches torrents in isoHunt
+Comment[es]=Busca torrents en isoHunt
+Comment[x-test]=xxSearches torrents in isoHuntxx
+Type=Service
+ServiceTypes=Plasma/Applet
+X-Plasma-API=ruby-script
+X-Plasma-MainScript=applet.rb
+
+X-KDE-PluginInfo-Author=David Palacio
+X-KDE-PluginInfo-Email=dpalacio@uninorte.edu.co
+X-KDE-PluginInfo-Name=isohunt
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://bakalacio.blogspot.com/
+X-KDE-PluginInfo-Category=Semantic Web
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
